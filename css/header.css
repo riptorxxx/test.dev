@@ -1,0 +1,32 @@
+body {
+    width: 960px;
+    margin:0 auto;
+    background: #333;
+    font-family: Verdana;
+    font-size: 12px;
+}
+
+header {
+    margin-bottom: 20px;
+}
+
+header ul {
+    text-align: center;
+}
+
+a {
+    color:#999;
+}
+
+header ul a li {
+    display: inline-block;
+    padding: 15px 30px;
+    margin-right: 10px;
+    background: #292929;
+    border-radius: 0 0 4px 5px;
+}
+
+header ul a li:hover {
+    background: #627693;
+    color:#f3f3f3;
+}

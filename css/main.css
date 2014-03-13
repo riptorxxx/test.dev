@@ -29,6 +29,7 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
     line-height: 1;
+    color:#999;
 }
 ol, ul {
     list-style: none;
@@ -44,4 +45,38 @@ q:before, q:after {
 table {
     border-collapse: collapse;
     border-spacing: 0;
+}
+a {
+    text-decoration: none;
+}
+
+/* Content styles */
+section#content {
+    min-height: 600px;
+    background: #222;
+}
+
+section#content section#left, section#content section#right {
+    min-height: 400px;
+}
+
+section#content section#left {
+    width:260px;
+    float: left;
+
+}
+
+section#content section#left ul {
+    margin: 10px 0 0 10px;
+}
+
+section#content section#left ul li{
+    padding: 10px;
+}
+
+section#content section#right {
+    line-height: 25px;
+    width: 680px;
+    margin-left: 260px;
+    padding: 10px;
 }
