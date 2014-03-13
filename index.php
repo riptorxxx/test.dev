@@ -57,7 +57,13 @@
 
     <!-- Подвал сайта -->
     <footer>
-
+        <ul class="botom-menu block">
+            <li>Lol</li>
+            <li>Lol</li>
+            <li>Lol</li>
+            <li>Lol</li>
+            <li>Lol</li>
+        </ul>
     </footer>
 </body>
 </html>
