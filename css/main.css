@@ -81,14 +81,19 @@ section#content section#left ul {
 }
 
 section#content section#left ul a li{
-    background: rgba(81,153,168,0.4);
+    background: rgba(120,153,168,0.4);
     margin-bottom: 10px;
     padding: 15px;
     font-size: 16px;
 }
 
 section#content section#left ul a li:hover{
-    background: rgba(244,76,11,0.4);
+    background: rgba(65,185,195,0.4);
+    font-size: 12pt;
+    font-weight: bolder;
+    position: relative;
+    margin-left: -10px;
+    border-radius: 10px 0 10px 0;
 }
 
 section#content section#left ul a li span.link {
@@ -111,3 +116,5 @@ section#content section#right {
     margin-left: 260px;
     padding: 10px;
 }
+
+
