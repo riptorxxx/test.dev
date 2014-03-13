@@ -1,5 +1,6 @@
 header {
-    margin-bottom: 20px;
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 
 header ul {
@@ -16,13 +17,14 @@ a:hover {
 
 header ul a li {
     display: inline-block;
-    padding: 15px 30px;
+    padding: 35px 60px;
     margin-right: 10px;
-    background: rgba(0,0,0,0.4);
-    border-radius: 0 0 4px 5px;
+    background: rgba(0,0,0,0.3);
+    border-radius: 35px 0 35px 0;
+    font-size: 16px;
 }
 
 header ul a li:hover {
-    background: rgba(81,153,168,0.4);
+    background: rgba(244,76,11,0.4);
     color:#f3f3f3;
 }

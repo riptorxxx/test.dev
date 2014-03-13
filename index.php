@@ -12,19 +12,13 @@
     <header>
         <ul id="nav">
             <a href="#">
-                <li>Lorem</li>
+                <li>Главная</li>
             </a>
             <a href="#">
-                <li>Excepturi</li>
+                <li>Личный кабинет</li>
             </a>
             <a href="#">
-                <li>Ad</li>
-            </a>
-            <a href="#">
-                <li>Incidunt</li>
-            </a>
-            <a href="#">
-                <li>Delectus</li>
+                <li>О проекте</li>
             </a>
         </ul>
     </header>
@@ -35,33 +29,33 @@
             <ul>
                 <a href="">
                     <li>
-                        <span class="link">Lorem</span><span class="small">> Lorem ipsum dolor.</span>
+                        <span class="link">Главная</span><span class="small">Все новости дня</span>
                     </li>
                 </a>
                 <a href="">
                     <li>
-                        <span class="link">Lorem</span><span class="small">> Lorem ipsum dolor.</span>
+                        <span class="link">Загрузить</span><span class="small">Начни играть прямо сейчас</span>
                     </li>
                 </a>
                 <a href="">
                     <li>
-                        <span class="link">Lorem</span><span class="small">> Lorem ipsum dolor.</span>
+                        <span class="link">Классы и расы</span><span class="small">Выбери свой путь</span>
                     </li>
                 </a>
                 <a href="">
                     <li>
-                        <span class="link">Lorem</span><span class="small">> Lorem ipsum dolor.</span>
+                        <span class="link">Скриншоты</span><span class="small">Зацени графон</span>
                     </li>
                 </a>
                 <a href="">
                     <li>
-                        <span class="link">Lorem</span><span class="small">> Lorem ipsum dolor.</span>
+                        <span class="link">Пополнить баланс</span><span class="small">разработчикам</span>
                     </li>
                 </a>
             </ul>
         </section>
         <section id="right">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda culpa ipsam labore modi perferendis? Deleniti dolore ex harum, laborum modi sequi vitae. Aspernatur aut consectetur dolore, doloribus nostrum perferendis ratione? Ad aut hic illum nostrum placeat? Consectetur consequatur corporis culpa debitis, dicta dolor doloremque, dolores dolorum ducimus explicabo id illo iusto labore laborum, magnam natus neque nihil nobis nulla obcaecati officia pariatur perspiciatis rem tenetur totam veniam vitae voluptatem! Est illum iste numquam quidem ut vitae. A animi deleniti ducimus error itaque laboriosam mollitia quaerat recusandae, rem repudiandae tenetur, ut! Ab dignissimos incidunt maxime nemo non numquam quia repudiandae totam!
+            <img src="img\bg.jpg" width="300" height="150" style="float: left; padding: 10px;"/> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda culpa ipsam labore modi perferendis? Deleniti dolore ex harum, laborum modi sequi vitae. Aspernatur aut consectetur dolore, doloribus nostrum perferendis ratione? Ad aut hic illum nostrum placeat? Consectetur consequatur corporis culpa debitis, dicta dolor doloremque, dolores dolorum ducimus explicabo id illo iusto labore laborum, magnam natus neque nihil nobis nulla obcaecati officia pariatur perspiciatis rem tenetur totam veniam vitae voluptatem! Est illum iste numquam quidem ut vitae. A animi deleniti ducimus error itaque laboriosam mollitia quaerat recusandae, rem repudiandae tenetur, ut! Ab dignissimos incidunt maxime nemo non numquam quia repudiandae totam!
         </section>
     </section>
 
