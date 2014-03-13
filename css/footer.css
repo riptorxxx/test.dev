@@ -10,3 +10,7 @@ footer ul li {
     display: inline-block;
     margin-right: 20px;
 }
+
+footer ul li a:hover {
+    color: #d07c30;
+}
