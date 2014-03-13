@@ -18,6 +18,10 @@ a {
     color:#999;
 }
 
+a:hover {
+    color: #d07c30;
+}
+
 header ul a li {
     display: inline-block;
     padding: 15px 30px;
@@ -27,6 +31,6 @@ header ul a li {
 }
 
 header ul a li:hover {
-    background: #627693;
+    background: #d07c30;
     color:#f3f3f3;
 }

@@ -74,6 +74,10 @@ section#content section#left ul li{
     padding: 10px;
 }
 
+section#content section#left ul li a:hover {
+    color:#d07c30;
+}
+
 section#content section#right {
     line-height: 25px;
     width: 680px;

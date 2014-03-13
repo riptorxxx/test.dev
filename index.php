@@ -33,21 +33,21 @@
     <section id="content">
         <section id="left">
             <ul>
-                <a href="">
-                    <li>Lorem</li>
-                </a>
-                <a href="#">
-                    <li>Dolorem</li>
-                </a>
-                <a href="#">
-                    <li>Praesentiu</li>
-                </a>
-                <a href="#">
-                    <li>Eveniet</li>
-                </a>
-                <a href="#">
-                    <li>Tempora</li>
-                </a>
+                <li>
+                    <a href="">Lorem</a>
+                </li>
+                <li>
+                    <a href="">Sudimea</a>
+                </li>
+                <li>
+                    <a href="">Ikudiko</a>
+                </li>
+                <li>
+                    <a href="">Liromasu</a>
+                </li>
+                <li>
+                    <a href="">Makedons</a>
+                </li>
             </ul>
         </section>
         <section id="right">
