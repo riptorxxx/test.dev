@@ -58,11 +58,21 @@
     <!-- Подвал сайта -->
     <footer>
         <ul class="botom-menu block">
-            <li>Lol</li>
-            <li>Lol</li>
-            <li>Lol</li>
-            <li>Lol</li>
-            <li>Lol</li>
+            <li>
+                <a href="">vk</a>
+            </li>
+            <li>
+                <a href="">twiter</a>
+            </li>
+            <li>
+                <a href="">facebook</a>
+            </li>
+            <li>
+                <a href="">instagramm</a>
+            </li>
+            <li>
+                <a href="">odnoklassniki</a>
+            </li>
         </ul>
     </footer>
 </body>

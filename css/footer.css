@@ -1,3 +1,12 @@
 footer {
-    background-color:#596a72;
+    background-color:#1d1d1d;
+    padding: 15px;
+    border-top:1px solid #444;
+    text-align: center;
+}
+
+footer ul li {
+    margin-bottom: 5px;
+    display: inline-block;
+    margin-right: 20px;
 }
