@@ -50,10 +50,20 @@ a {
     text-decoration: none;
 }
 
+/* Body styles */
+body {
+    width: 960px;
+    margin:0 auto;
+    background: #333;
+    font-family: Verdana;
+    font-size: 12px;
+    background: url("/img/bg.jpg") no-repeat #000 top center;
+}
+
 /* Content styles */
 section#content {
     min-height: 600px;
-    background: #222;
+    background: rgba(0,0,0,0.4);
 }
 
 section#content section#left, section#content section#right {
@@ -70,12 +80,29 @@ section#content section#left ul {
     margin: 10px 0 0 10px;
 }
 
-section#content section#left ul li{
-    padding: 10px;
+section#content section#left ul a li{
+    background: rgba(81,153,168,0.4);
+    margin-bottom: 10px;
+    padding: 15px;
+    font-size: 16px;
 }
 
-section#content section#left ul li a:hover {
-    color:#d07c30;
+section#content section#left ul a li:hover{
+    background: rgba(244,76,11,0.4);
+}
+
+section#content section#left ul a li span.link {
+    color:#ddd;
+}
+
+section#content section#left ul a li span.small {
+    display: block;
+    margin-top: 10px;
+    font-size: 10px;
+}
+
+section#content section#left ul li:hover span.small {
+    color:#999;
 }
 
 section#content section#right {

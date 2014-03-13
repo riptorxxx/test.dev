@@ -33,21 +33,31 @@
     <section id="content">
         <section id="left">
             <ul>
-                <li>
-                    <a href="">Lorem</a>
-                </li>
-                <li>
-                    <a href="">Sudimea</a>
-                </li>
-                <li>
-                    <a href="">Ikudiko</a>
-                </li>
-                <li>
-                    <a href="">Liromasu</a>
-                </li>
-                <li>
-                    <a href="">Makedons</a>
-                </li>
+                <a href="">
+                    <li>
+                        <span class="link">Lorem</span><span class="small">> Lorem ipsum dolor.</span>
+                    </li>
+                </a>
+                <a href="">
+                    <li>
+                        <span class="link">Lorem</span><span class="small">> Lorem ipsum dolor.</span>
+                    </li>
+                </a>
+                <a href="">
+                    <li>
+                        <span class="link">Lorem</span><span class="small">> Lorem ipsum dolor.</span>
+                    </li>
+                </a>
+                <a href="">
+                    <li>
+                        <span class="link">Lorem</span><span class="small">> Lorem ipsum dolor.</span>
+                    </li>
+                </a>
+                <a href="">
+                    <li>
+                        <span class="link">Lorem</span><span class="small">> Lorem ipsum dolor.</span>
+                    </li>
+                </a>
             </ul>
         </section>
         <section id="right">
