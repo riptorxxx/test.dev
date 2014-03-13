@@ -5,6 +5,7 @@
     <title>Document</title>
     <link rel="stylesheet" type="text/css" href="/css/main.css">
     <link rel="stylesheet" type="text/css" href="/css/header.css">
+    <link rel="stylesheet" type="text/css" href="/css/footer.css">
 </head>
 <body>
     <!-- Шапка сайта -->
